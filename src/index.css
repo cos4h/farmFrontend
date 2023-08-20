@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.register {
+  background-image: url("./img/04-banner-banacol.jpg");
+  color: white;
+  height: 100vh;
+}
+
+.login{
+  background-image: url("./img/24cb933e-7b9e-430d-a90a-45df15dc8121.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+  height: 100vh;
+}
+
+body{
+  color: white;
+}
