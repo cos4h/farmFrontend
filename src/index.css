@@ -17,6 +17,9 @@
   height: 100vh;
 }
 
+.bills{
+  color: black;
+}
 body{
   color: white;
 }
